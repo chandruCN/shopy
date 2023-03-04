@@ -226,10 +226,10 @@ nav ul li a:hover {
   transform: scale(0.9);
   padding-bottom: 0px;
 }
-.gallery:hover #price {
+.content1:hover #price {
   display: none;
 }
-.gallery:hover .incontent {
+.content1:hover .incontent {
   visibility: visible;
   /* transform: scale3d(1); */
 }
@@ -355,7 +355,7 @@ button:hover {
   display: flex;
   background-color: white;
   margin: 0 auto;
-  height: 25vh;
+  height: 150px;
   width: 20rem;
 }
 .left-container {
