@@ -161,7 +161,7 @@ nav ul li a:hover {
   align-items: center;
 }
 .content1 {
-  height: 40vh;
+  height: 250px;
   width: 20%;
   margin: 0 auto;
   box-sizing: border-box;
@@ -246,7 +246,7 @@ nav ul li a:hover {
   display: flex;
   margin: 0 auto;
   width: 64rem;
-  height: 10vh;
+  height: 60px;
   align-items: center;
   justify-content: center;
   background-color: white;
